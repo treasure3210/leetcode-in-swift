@@ -19,6 +19,10 @@ Problem: Given a sorted array nums, remove the duplicates in-place such that eac
 File: LeetCode - Rotate Array.playground
 Problem: Given an array, rotate the array to the right by k steps, where k is non-negative.
 
+## Unique Morse Code Words
+File: LeetCode - Unique Morse Code Words.playground
+Problem: International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes. Given an array of strings where each word can be written as a concatenation of the Morse code of each letter, return the number of different transformations among all words we have.
+
 For more details on each problem and to see the test cases, please visit the corresponding LeetCode problem page.
 
 # How to use
